@@ -1,0 +1,205 @@
+---
+eband_local_planner:
+  ubuntu:
+    - ros-noetic-eband-local-planner
+egh_gripper_controller:
+  ubuntu:
+    - ros-noetic-egh-gripper-controller
+egh_gripper_description:
+  ubuntu:
+    - ros-noetic-egh-gripper-description
+elevator_control:
+  ubuntu:
+    - ros-noetic-elevator-control
+elevator_controller_modbus:
+  ubuntu:
+    - ros-noetic-elevator-controller-modbus
+elevator_description:
+  ubuntu:
+    - ros-noetic-elevator-description
+elevator_gazebo:
+  ubuntu:
+    - ros-noetic-elevator-gazebo
+elevator_node:
+  ubuntu:
+    - ros-noetic-elevator-node
+multimap_server:
+  ubuntu:
+    - ros-noetic-multimap-server
+multimap_server_msgs:
+  ubuntu:
+    - ros-noetic-multimap-server-msgs
+myahrs_driver:
+  ubuntu:
+    - ros-noetic-myahrs-driver
+poi_manager:
+  ubuntu:
+    - ros-noetic-poi-manager
+poi_manager_msgs:
+  ubuntu:
+    - ros-noetic-poi-manager-msgs
+procedures_msgs:
+  ubuntu:
+    - ros-noetic-procedures-msgs
+rbkairos_10_moveit_config:
+  ubuntu:
+    - ros-noetic-rbkairos-10-moveit-config
+rbkairos_5_plus_config:
+  ubuntu:
+    - ros-noetic-rbkairos-5-plus-config
+rbkairos_common:
+  ubuntu:
+    - ros-noetic-rbkairos-common
+rbkairos_control:
+  ubuntu:
+    - ros-noetic-rbkairos-control
+rbkairos_description:
+  ubuntu:
+    - ros-noetic-rbkairos-description
+rbkairos_franka_moveit_config:
+  ubuntu:
+    - ros-noetic-rbkairos-franka-moveit-config
+rbkairos_gazebo:
+  ubuntu:
+    - ros-noetic-rbkairos-gazebo
+rbkairos_iiwa_plus_config:
+  ubuntu:
+    - ros-noetic-rbkairos-iiwa-plus-config
+rbkairos_plus_ur5_vgc10_moveit_config:
+  ubuntu:
+    - ros-noetic-rbkairos-plus-ur5-vgc10-moveit-config
+rbkairos_sim:
+  ubuntu:
+    - ros-noetic-rbkairos-sim
+rbkairos_sim_bringup:
+  ubuntu:
+    - ros-noetic-rbkairos-sim-bringup
+rbkairos_ur10_vgc10_moveit_config:
+  ubuntu:
+    - ros-noetic-rbkairos-ur10-vgc10-moveit-config
+rbkairos_ur5_egh_moveit_config:
+  ubuntu:
+    - ros-noetic-rbkairos-ur5-egh-moveit-config
+rbkairos_ur5_egh_plus_moveit:
+  ubuntu:
+    - ros-noetic-rbkairos-ur5-egh-plus-moveit
+rbkairos_ur5_wsg50_moveit_config:
+  ubuntu:
+    - ros-noetic-rbkairos-ur5-wsg50-moveit-config
+rcomponent:
+  ubuntu:
+    - ros-noetic-rcomponent
+robot_local_control_msgs:
+  ubuntu:
+    - ros-noetic-robot-local-control-msgs
+robot_localization_utils:
+  ubuntu:
+    - ros-noetic-robot-localization-utils
+robot_simple_command_manager_msgs:
+  ubuntu:
+    - ros-noetic-robot-simple-command-manager-msgs
+roboticsgroup_gazebo_plugins:
+  ubuntu:
+    - ros-noetic-roboticsgroup-gazebo-plugins
+robotnik_base_hw_sim:
+  ubuntu:
+    - ros-noetic-robotnik-base-hw-sim
+robotnik_elevator_component:
+  ubuntu:
+    - ros-noetic-robotnik-elevator-component
+robotnik_elevator_interface:
+  ubuntu:
+    - ros-noetic-robotnik-elevator-interface
+robotnik_elevator_interface_msgs:
+  ubuntu:
+    - ros-noetic-robotnik-elevator-interface-msgs
+robotnik_force_based_move:
+  ubuntu:
+    - ros-noetic-robotnik-force-based-move
+robotnik_gazebo_elevator:
+  ubuntu:
+    - ros-noetic-robotnik-gazebo-elevator
+robotnik_gazebo_ground_truth_odom:
+  ubuntu:
+    - ros-noetic-robotnik-gazebo-ground-truth-odom
+robotnik_gazebo_plugins:
+  ubuntu:
+    - ros-noetic-robotnik-gazebo-plugins
+robotnik_gazebo_set_visual:
+  ubuntu:
+    - ros-noetic-robotnik-gazebo-set-visual
+robotnik_msgs:
+  ubuntu:
+    - ros-noetic-robotnik-msgs
+robotnik_navigation_msgs:
+  ubuntu:
+    - ros-noetic-robotnik-navigation-msgs
+robotnik_sensors:
+  ubuntu:
+    - ros-noetic-robotnik-sensors
+robotnik_signal_msgs:
+  ubuntu:
+    - ros-noetic-robotnik-signal-msgs
+summit_xl_common:
+  ubuntu:
+    - ros-noetic-summit-xl-common
+summit_xl_control:
+  ubuntu:
+    - ros-noetic-summit-xl-control
+summit_xl_description:
+  ubuntu:
+    - ros-noetic-summit-xl-description
+summit_xl_j2n6s200_moveit_config:
+  ubuntu:
+    - ros-noetic-summit-xl-j2n6s200-moveit-config
+summit_xl_j2s6s200_moveit_config:
+  ubuntu:
+    - ros-noetic-summit-xl-j2s6s200-moveit-config
+summit_xl_localization:
+  ubuntu:
+    - ros-noetic-summit-xl-localization
+summit_xl_navigation:
+  ubuntu:
+    - ros-noetic-summit-xl-navigation
+summit_xl_pad:
+  ubuntu:
+    - ros-noetic-summit-xl-pad
+summit_xl_vx300s_moveit_config:
+  ubuntu:
+    - ros-noetic-summit-xl-vx300s-moveit-config
+universal_robots:
+  ubuntu:
+    - ros-noetic-universal-robots
+ur10_moveit_config:
+  ubuntu:
+    - ros-noetic-ur10-moveit-config
+ur10e_moveit_config:
+  ubuntu:
+    - ros-noetic-ur10e-moveit-config
+ur16e_moveit_config:
+  ubuntu:
+    - ros-noetic-ur16e-moveit-config
+ur3_moveit_config:
+  ubuntu:
+    - ros-noetic-ur3-moveit-config
+ur3e_moveit_config:
+  ubuntu:
+    - ros-noetic-ur3e-moveit-config
+ur5_moveit_config:
+  ubuntu:
+    - ros-noetic-ur5-moveit-config
+ur5e_moveit_config:
+  ubuntu:
+    - ros-noetic-ur5e-moveit-config
+ur_description:
+  ubuntu:
+    - ros-noetic-ur-description
+ur_gazebo:
+  ubuntu:
+    - ros-noetic-ur-gazebo
+ur_kinematics:
+  ubuntu:
+    - ros-noetic-ur-kinematics
+vectornav:
+  ubuntu:
+    - ros-noetic-vectornav
