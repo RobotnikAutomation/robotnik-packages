@@ -1,4 +1,7 @@
 ---
+ar_track_alvar:
+  ubuntu:
+    - ros-melodic-ar-track-alvar
 eband_local_planner:
   ubuntu:
     - ros-melodic-eband-local-planner

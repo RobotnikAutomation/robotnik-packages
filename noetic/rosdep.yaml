@@ -1,4 +1,7 @@
 ---
+ar_track_alvar:
+  ubuntu:
+    - ros-noetic-ar-track-alvar
 eband_local_planner:
   ubuntu:
     - ros-noetic-eband-local-planner
