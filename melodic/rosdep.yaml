@@ -1,0 +1,205 @@
+---
+eband_local_planner:
+  ubuntu:
+    - ros-melodic-eband-local-planner
+egh_gripper_controller:
+  ubuntu:
+    - ros-melodic-egh-gripper-controller
+egh_gripper_description:
+  ubuntu:
+    - ros-melodic-egh-gripper-description
+elevator_control:
+  ubuntu:
+    - ros-melodic-elevator-control
+elevator_controller_modbus:
+  ubuntu:
+    - ros-melodic-elevator-controller-modbus
+elevator_description:
+  ubuntu:
+    - ros-melodic-elevator-description
+elevator_gazebo:
+  ubuntu:
+    - ros-melodic-elevator-gazebo
+elevator_node:
+  ubuntu:
+    - ros-melodic-elevator-node
+multimap_server:
+  ubuntu:
+    - ros-melodic-multimap-server
+multimap_server_msgs:
+  ubuntu:
+    - ros-melodic-multimap-server-msgs
+myahrs_driver:
+  ubuntu:
+    - ros-melodic-myahrs-driver
+poi_manager:
+  ubuntu:
+    - ros-melodic-poi-manager
+poi_manager_msgs:
+  ubuntu:
+    - ros-melodic-poi-manager-msgs
+procedures_msgs:
+  ubuntu:
+    - ros-melodic-procedures-msgs
+rbkairos_10_moveit_config:
+  ubuntu:
+    - ros-melodic-rbkairos-10-moveit-config
+rbkairos_5_plus_config:
+  ubuntu:
+    - ros-melodic-rbkairos-5-plus-config
+rbkairos_common:
+  ubuntu:
+    - ros-melodic-rbkairos-common
+rbkairos_control:
+  ubuntu:
+    - ros-melodic-rbkairos-control
+rbkairos_description:
+  ubuntu:
+    - ros-melodic-rbkairos-description
+rbkairos_franka_moveit_config:
+  ubuntu:
+    - ros-melodic-rbkairos-franka-moveit-config
+rbkairos_gazebo:
+  ubuntu:
+    - ros-melodic-rbkairos-gazebo
+rbkairos_iiwa_plus_config:
+  ubuntu:
+    - ros-melodic-rbkairos-iiwa-plus-config
+rbkairos_plus_ur5_vgc10_moveit_config:
+  ubuntu:
+    - ros-melodic-rbkairos-plus-ur5-vgc10-moveit-config
+rbkairos_sim:
+  ubuntu:
+    - ros-melodic-rbkairos-sim
+rbkairos_sim_bringup:
+  ubuntu:
+    - ros-melodic-rbkairos-sim-bringup
+rbkairos_ur10_vgc10_moveit_config:
+  ubuntu:
+    - ros-melodic-rbkairos-ur10-vgc10-moveit-config
+rbkairos_ur5_egh_moveit_config:
+  ubuntu:
+    - ros-melodic-rbkairos-ur5-egh-moveit-config
+rbkairos_ur5_egh_plus_moveit:
+  ubuntu:
+    - ros-melodic-rbkairos-ur5-egh-plus-moveit
+rbkairos_ur5_wsg50_moveit_config:
+  ubuntu:
+    - ros-melodic-rbkairos-ur5-wsg50-moveit-config
+rcomponent:
+  ubuntu:
+    - ros-melodic-rcomponent
+robot_local_control_msgs:
+  ubuntu:
+    - ros-melodic-robot-local-control-msgs
+robot_localization_utils:
+  ubuntu:
+    - ros-melodic-robot-localization-utils
+robot_simple_command_manager_msgs:
+  ubuntu:
+    - ros-melodic-robot-simple-command-manager-msgs
+roboticsgroup_gazebo_plugins:
+  ubuntu:
+    - ros-melodic-roboticsgroup-gazebo-plugins
+robotnik_base_hw_sim:
+  ubuntu:
+    - ros-melodic-robotnik-base-hw-sim
+robotnik_elevator_component:
+  ubuntu:
+    - ros-melodic-robotnik-elevator-component
+robotnik_elevator_interface:
+  ubuntu:
+    - ros-melodic-robotnik-elevator-interface
+robotnik_elevator_interface_msgs:
+  ubuntu:
+    - ros-melodic-robotnik-elevator-interface-msgs
+robotnik_force_based_move:
+  ubuntu:
+    - ros-melodic-robotnik-force-based-move
+robotnik_gazebo_elevator:
+  ubuntu:
+    - ros-melodic-robotnik-gazebo-elevator
+robotnik_gazebo_ground_truth_odom:
+  ubuntu:
+    - ros-melodic-robotnik-gazebo-ground-truth-odom
+robotnik_gazebo_plugins:
+  ubuntu:
+    - ros-melodic-robotnik-gazebo-plugins
+robotnik_gazebo_set_visual:
+  ubuntu:
+    - ros-melodic-robotnik-gazebo-set-visual
+robotnik_msgs:
+  ubuntu:
+    - ros-melodic-robotnik-msgs
+robotnik_navigation_msgs:
+  ubuntu:
+    - ros-melodic-robotnik-navigation-msgs
+robotnik_sensors:
+  ubuntu:
+    - ros-melodic-robotnik-sensors
+robotnik_signal_msgs:
+  ubuntu:
+    - ros-melodic-robotnik-signal-msgs
+summit_xl_common:
+  ubuntu:
+    - ros-melodic-summit-xl-common
+summit_xl_control:
+  ubuntu:
+    - ros-melodic-summit-xl-control
+summit_xl_description:
+  ubuntu:
+    - ros-melodic-summit-xl-description
+summit_xl_j2n6s200_moveit_config:
+  ubuntu:
+    - ros-melodic-summit-xl-j2n6s200-moveit-config
+summit_xl_j2s6s200_moveit_config:
+  ubuntu:
+    - ros-melodic-summit-xl-j2s6s200-moveit-config
+summit_xl_localization:
+  ubuntu:
+    - ros-melodic-summit-xl-localization
+summit_xl_navigation:
+  ubuntu:
+    - ros-melodic-summit-xl-navigation
+summit_xl_pad:
+  ubuntu:
+    - ros-melodic-summit-xl-pad
+summit_xl_vx300s_moveit_config:
+  ubuntu:
+    - ros-melodic-summit-xl-vx300s-moveit-config
+universal_robots:
+  ubuntu:
+    - ros-melodic-universal-robots
+ur10_moveit_config:
+  ubuntu:
+    - ros-melodic-ur10-moveit-config
+ur10e_moveit_config:
+  ubuntu:
+    - ros-melodic-ur10e-moveit-config
+ur16e_moveit_config:
+  ubuntu:
+    - ros-melodic-ur16e-moveit-config
+ur3_moveit_config:
+  ubuntu:
+    - ros-melodic-ur3-moveit-config
+ur3e_moveit_config:
+  ubuntu:
+    - ros-melodic-ur3e-moveit-config
+ur5_moveit_config:
+  ubuntu:
+    - ros-melodic-ur5-moveit-config
+ur5e_moveit_config:
+  ubuntu:
+    - ros-melodic-ur5e-moveit-config
+ur_description:
+  ubuntu:
+    - ros-melodic-ur-description
+ur_gazebo:
+  ubuntu:
+    - ros-melodic-ur-gazebo
+ur_kinematics:
+  ubuntu:
+    - ros-melodic-ur-kinematics
+vectornav:
+  ubuntu:
+    - ros-melodic-vectornav
