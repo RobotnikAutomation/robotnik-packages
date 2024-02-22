@@ -2,6 +2,9 @@
 ar_track_alvar:
   ubuntu:
     - ros-noetic-ar-track-alvar
+cartographer_ros_msgs:
+  ubuntu:
+    - ros-noetic-cartographer-ros-msgs
 libmysql++3v5:
   ubuntu:
     - libmysql++3v5
