@@ -2,6 +2,12 @@
 ar_track_alvar:
   ubuntu:
     - ros-melodic-ar-track-alvar
+libmysql++3v5:
+  ubuntu:
+    - libmysql++3v5
+libmysql++-dev:
+  ubuntu:
+    - libmysql++-dev
 eband_local_planner:
   ubuntu:
     - ros-melodic-eband-local-planner
