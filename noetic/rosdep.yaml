@@ -38,6 +38,9 @@ elevator_gazebo:
 elevator_node:
   ubuntu:
     - ros-noetic-elevator-node
+marker_mapping:
+  ubuntu:
+    - ros-noetic-marker-mapping
 multimap_server:
   ubuntu:
     - ros-noetic-multimap-server

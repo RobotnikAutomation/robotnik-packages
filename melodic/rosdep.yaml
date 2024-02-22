@@ -38,6 +38,9 @@ elevator_gazebo:
 elevator_node:
   ubuntu:
     - ros-melodic-elevator-node
+marker_mapping:
+  ubuntu:
+    - ros-melodic-marker-mapping
 multimap_server:
   ubuntu:
     - ros-melodic-multimap-server
