@@ -149,6 +149,9 @@ robotnik_sensors:
 robotnik_signal_msgs:
   ubuntu:
     - ros-noetic-robotnik-signal-msgs
+rosbag_manager_msgs:
+  ubuntu:
+    - ros-noetic-rosbag-manager-msgs
 summit_xl_common:
   ubuntu:
     - ros-noetic-summit-xl-common
