@@ -2,6 +2,9 @@
 ar_track_alvar:
   ubuntu:
     - ros-noetic-ar-track-alvar
+ar_track_alvar_msgs:
+  ubuntu:
+    - ros-noetic-ar-track-alvar-msgs
 cartographer_ros_msgs:
   ubuntu:
     - ros-noetic-cartographer-ros-msgs
