@@ -1,0 +1,214 @@
+---
+ar_track_alvar:
+  ubuntu:
+    - ros-iron-ar-track-alvar
+libmysql++3v5:
+  ubuntu:
+    - libmysql++3v5
+libmysql++-dev:
+  ubuntu:
+    - libmysql++-dev
+eband_local_planner:
+  ubuntu:
+    - ros-iron-eband-local-planner
+egh_gripper_controller:
+  ubuntu:
+    - ros-iron-egh-gripper-controller
+egh_gripper_description:
+  ubuntu:
+    - ros-iron-egh-gripper-description
+elevator_control:
+  ubuntu:
+    - ros-iron-elevator-control
+elevator_controller_modbus:
+  ubuntu:
+    - ros-iron-elevator-controller-modbus
+elevator_description:
+  ubuntu:
+    - ros-iron-elevator-description
+elevator_gazebo:
+  ubuntu:
+    - ros-iron-elevator-gazebo
+elevator_node:
+  ubuntu:
+    - ros-iron-elevator-node
+multimap_server:
+  ubuntu:
+    - ros-iron-multimap-server
+multimap_server_msgs:
+  ubuntu:
+    - ros-iron-multimap-server-msgs
+myahrs_driver:
+  ubuntu:
+    - ros-iron-myahrs-driver
+poi_manager:
+  ubuntu:
+    - ros-iron-poi-manager
+poi_manager_msgs:
+  ubuntu:
+    - ros-iron-poi-manager-msgs
+procedures_msgs:
+  ubuntu:
+    - ros-iron-procedures-msgs
+rbkairos_10_moveit_config:
+  ubuntu:
+    - ros-iron-rbkairos-10-moveit-config
+rbkairos_5_plus_config:
+  ubuntu:
+    - ros-iron-rbkairos-5-plus-config
+rbkairos_common:
+  ubuntu:
+    - ros-iron-rbkairos-common
+rbkairos_control:
+  ubuntu:
+    - ros-iron-rbkairos-control
+rbkairos_description:
+  ubuntu:
+    - ros-iron-rbkairos-description
+rbkairos_franka_moveit_config:
+  ubuntu:
+    - ros-iron-rbkairos-franka-moveit-config
+rbkairos_gazebo:
+  ubuntu:
+    - ros-iron-rbkairos-gazebo
+rbkairos_iiwa_plus_config:
+  ubuntu:
+    - ros-iron-rbkairos-iiwa-plus-config
+rbkairos_plus_ur5_vgc10_moveit_config:
+  ubuntu:
+    - ros-iron-rbkairos-plus-ur5-vgc10-moveit-config
+rbkairos_sim:
+  ubuntu:
+    - ros-iron-rbkairos-sim
+rbkairos_sim_bringup:
+  ubuntu:
+    - ros-iron-rbkairos-sim-bringup
+rbkairos_ur10_vgc10_moveit_config:
+  ubuntu:
+    - ros-iron-rbkairos-ur10-vgc10-moveit-config
+rbkairos_ur5_egh_moveit_config:
+  ubuntu:
+    - ros-iron-rbkairos-ur5-egh-moveit-config
+rbkairos_ur5_egh_plus_moveit:
+  ubuntu:
+    - ros-iron-rbkairos-ur5-egh-plus-moveit
+rbkairos_ur5_wsg50_moveit_config:
+  ubuntu:
+    - ros-iron-rbkairos-ur5-wsg50-moveit-config
+rcomponent:
+  ubuntu:
+    - ros-iron-rcomponent
+robot_local_control_msgs:
+  ubuntu:
+    - ros-iron-robot-local-control-msgs
+robot_localization_utils:
+  ubuntu:
+    - ros-iron-robot-localization-utils
+robot_simple_command_manager_msgs:
+  ubuntu:
+    - ros-iron-robot-simple-command-manager-msgs
+roboticsgroup_gazebo_plugins:
+  ubuntu:
+    - ros-iron-roboticsgroup-gazebo-plugins
+robotnik_base_hw_sim:
+  ubuntu:
+    - ros-iron-robotnik-base-hw-sim
+robotnik_elevator_component:
+  ubuntu:
+    - ros-iron-robotnik-elevator-component
+robotnik_elevator_interface:
+  ubuntu:
+    - ros-iron-robotnik-elevator-interface
+robotnik_elevator_interface_msgs:
+  ubuntu:
+    - ros-iron-robotnik-elevator-interface-msgs
+robotnik_force_based_move:
+  ubuntu:
+    - ros-iron-robotnik-force-based-move
+robotnik_gazebo_elevator:
+  ubuntu:
+    - ros-iron-robotnik-gazebo-elevator
+robotnik_gazebo_ground_truth_odom:
+  ubuntu:
+    - ros-iron-robotnik-gazebo-ground-truth-odom
+robotnik_gazebo_plugins:
+  ubuntu:
+    - ros-iron-robotnik-gazebo-plugins
+robotnik_gazebo_set_visual:
+  ubuntu:
+    - ros-iron-robotnik-gazebo-set-visual
+robotnik_msgs:
+  ubuntu:
+    - ros-iron-robotnik-msgs
+robotnik_navigation_msgs:
+  ubuntu:
+    - ros-iron-robotnik-navigation-msgs
+robotnik_sensors:
+  ubuntu:
+    - ros-iron-robotnik-sensors
+robotnik_signal_msgs:
+  ubuntu:
+    - ros-iron-robotnik-signal-msgs
+summit_xl_common:
+  ubuntu:
+    - ros-iron-summit-xl-common
+summit_xl_control:
+  ubuntu:
+    - ros-iron-summit-xl-control
+summit_xl_description:
+  ubuntu:
+    - ros-iron-summit-xl-description
+summit_xl_j2n6s200_moveit_config:
+  ubuntu:
+    - ros-iron-summit-xl-j2n6s200-moveit-config
+summit_xl_j2s6s200_moveit_config:
+  ubuntu:
+    - ros-iron-summit-xl-j2s6s200-moveit-config
+summit_xl_localization:
+  ubuntu:
+    - ros-iron-summit-xl-localization
+summit_xl_navigation:
+  ubuntu:
+    - ros-iron-summit-xl-navigation
+summit_xl_pad:
+  ubuntu:
+    - ros-iron-summit-xl-pad
+summit_xl_vx300s_moveit_config:
+  ubuntu:
+    - ros-iron-summit-xl-vx300s-moveit-config
+universal_robots:
+  ubuntu:
+    - ros-iron-universal-robots
+ur10_moveit_config:
+  ubuntu:
+    - ros-iron-ur10-moveit-config
+ur10e_moveit_config:
+  ubuntu:
+    - ros-iron-ur10e-moveit-config
+ur16e_moveit_config:
+  ubuntu:
+    - ros-iron-ur16e-moveit-config
+ur3_moveit_config:
+  ubuntu:
+    - ros-iron-ur3-moveit-config
+ur3e_moveit_config:
+  ubuntu:
+    - ros-iron-ur3e-moveit-config
+ur5_moveit_config:
+  ubuntu:
+    - ros-iron-ur5-moveit-config
+ur5e_moveit_config:
+  ubuntu:
+    - ros-iron-ur5e-moveit-config
+ur_description:
+  ubuntu:
+    - ros-iron-ur-description
+ur_gazebo:
+  ubuntu:
+    - ros-iron-ur-gazebo
+ur_kinematics:
+  ubuntu:
+    - ros-iron-ur-kinematics
+vectornav:
+  ubuntu:
+    - ros-iron-vectornav

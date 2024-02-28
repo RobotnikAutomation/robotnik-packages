@@ -1,0 +1,214 @@
+---
+ar_track_alvar:
+  ubuntu:
+    - ros-humble-ar-track-alvar
+libmysql++3v5:
+  ubuntu:
+    - libmysql++3v5
+libmysql++-dev:
+  ubuntu:
+    - libmysql++-dev
+eband_local_planner:
+  ubuntu:
+    - ros-humble-eband-local-planner
+egh_gripper_controller:
+  ubuntu:
+    - ros-humble-egh-gripper-controller
+egh_gripper_description:
+  ubuntu:
+    - ros-humble-egh-gripper-description
+elevator_control:
+  ubuntu:
+    - ros-humble-elevator-control
+elevator_controller_modbus:
+  ubuntu:
+    - ros-humble-elevator-controller-modbus
+elevator_description:
+  ubuntu:
+    - ros-humble-elevator-description
+elevator_gazebo:
+  ubuntu:
+    - ros-humble-elevator-gazebo
+elevator_node:
+  ubuntu:
+    - ros-humble-elevator-node
+multimap_server:
+  ubuntu:
+    - ros-humble-multimap-server
+multimap_server_msgs:
+  ubuntu:
+    - ros-humble-multimap-server-msgs
+myahrs_driver:
+  ubuntu:
+    - ros-humble-myahrs-driver
+poi_manager:
+  ubuntu:
+    - ros-humble-poi-manager
+poi_manager_msgs:
+  ubuntu:
+    - ros-humble-poi-manager-msgs
+procedures_msgs:
+  ubuntu:
+    - ros-humble-procedures-msgs
+rbkairos_10_moveit_config:
+  ubuntu:
+    - ros-humble-rbkairos-10-moveit-config
+rbkairos_5_plus_config:
+  ubuntu:
+    - ros-humble-rbkairos-5-plus-config
+rbkairos_common:
+  ubuntu:
+    - ros-humble-rbkairos-common
+rbkairos_control:
+  ubuntu:
+    - ros-humble-rbkairos-control
+rbkairos_description:
+  ubuntu:
+    - ros-humble-rbkairos-description
+rbkairos_franka_moveit_config:
+  ubuntu:
+    - ros-humble-rbkairos-franka-moveit-config
+rbkairos_gazebo:
+  ubuntu:
+    - ros-humble-rbkairos-gazebo
+rbkairos_iiwa_plus_config:
+  ubuntu:
+    - ros-humble-rbkairos-iiwa-plus-config
+rbkairos_plus_ur5_vgc10_moveit_config:
+  ubuntu:
+    - ros-humble-rbkairos-plus-ur5-vgc10-moveit-config
+rbkairos_sim:
+  ubuntu:
+    - ros-humble-rbkairos-sim
+rbkairos_sim_bringup:
+  ubuntu:
+    - ros-humble-rbkairos-sim-bringup
+rbkairos_ur10_vgc10_moveit_config:
+  ubuntu:
+    - ros-humble-rbkairos-ur10-vgc10-moveit-config
+rbkairos_ur5_egh_moveit_config:
+  ubuntu:
+    - ros-humble-rbkairos-ur5-egh-moveit-config
+rbkairos_ur5_egh_plus_moveit:
+  ubuntu:
+    - ros-humble-rbkairos-ur5-egh-plus-moveit
+rbkairos_ur5_wsg50_moveit_config:
+  ubuntu:
+    - ros-humble-rbkairos-ur5-wsg50-moveit-config
+rcomponent:
+  ubuntu:
+    - ros-humble-rcomponent
+robot_local_control_msgs:
+  ubuntu:
+    - ros-humble-robot-local-control-msgs
+robot_localization_utils:
+  ubuntu:
+    - ros-humble-robot-localization-utils
+robot_simple_command_manager_msgs:
+  ubuntu:
+    - ros-humble-robot-simple-command-manager-msgs
+roboticsgroup_gazebo_plugins:
+  ubuntu:
+    - ros-humble-roboticsgroup-gazebo-plugins
+robotnik_base_hw_sim:
+  ubuntu:
+    - ros-humble-robotnik-base-hw-sim
+robotnik_elevator_component:
+  ubuntu:
+    - ros-humble-robotnik-elevator-component
+robotnik_elevator_interface:
+  ubuntu:
+    - ros-humble-robotnik-elevator-interface
+robotnik_elevator_interface_msgs:
+  ubuntu:
+    - ros-humble-robotnik-elevator-interface-msgs
+robotnik_force_based_move:
+  ubuntu:
+    - ros-humble-robotnik-force-based-move
+robotnik_gazebo_elevator:
+  ubuntu:
+    - ros-humble-robotnik-gazebo-elevator
+robotnik_gazebo_ground_truth_odom:
+  ubuntu:
+    - ros-humble-robotnik-gazebo-ground-truth-odom
+robotnik_gazebo_plugins:
+  ubuntu:
+    - ros-humble-robotnik-gazebo-plugins
+robotnik_gazebo_set_visual:
+  ubuntu:
+    - ros-humble-robotnik-gazebo-set-visual
+robotnik_msgs:
+  ubuntu:
+    - ros-humble-robotnik-msgs
+robotnik_navigation_msgs:
+  ubuntu:
+    - ros-humble-robotnik-navigation-msgs
+robotnik_sensors:
+  ubuntu:
+    - ros-humble-robotnik-sensors
+robotnik_signal_msgs:
+  ubuntu:
+    - ros-humble-robotnik-signal-msgs
+summit_xl_common:
+  ubuntu:
+    - ros-humble-summit-xl-common
+summit_xl_control:
+  ubuntu:
+    - ros-humble-summit-xl-control
+summit_xl_description:
+  ubuntu:
+    - ros-humble-summit-xl-description
+summit_xl_j2n6s200_moveit_config:
+  ubuntu:
+    - ros-humble-summit-xl-j2n6s200-moveit-config
+summit_xl_j2s6s200_moveit_config:
+  ubuntu:
+    - ros-humble-summit-xl-j2s6s200-moveit-config
+summit_xl_localization:
+  ubuntu:
+    - ros-humble-summit-xl-localization
+summit_xl_navigation:
+  ubuntu:
+    - ros-humble-summit-xl-navigation
+summit_xl_pad:
+  ubuntu:
+    - ros-humble-summit-xl-pad
+summit_xl_vx300s_moveit_config:
+  ubuntu:
+    - ros-humble-summit-xl-vx300s-moveit-config
+universal_robots:
+  ubuntu:
+    - ros-humble-universal-robots
+ur10_moveit_config:
+  ubuntu:
+    - ros-humble-ur10-moveit-config
+ur10e_moveit_config:
+  ubuntu:
+    - ros-humble-ur10e-moveit-config
+ur16e_moveit_config:
+  ubuntu:
+    - ros-humble-ur16e-moveit-config
+ur3_moveit_config:
+  ubuntu:
+    - ros-humble-ur3-moveit-config
+ur3e_moveit_config:
+  ubuntu:
+    - ros-humble-ur3e-moveit-config
+ur5_moveit_config:
+  ubuntu:
+    - ros-humble-ur5-moveit-config
+ur5e_moveit_config:
+  ubuntu:
+    - ros-humble-ur5e-moveit-config
+ur_description:
+  ubuntu:
+    - ros-humble-ur-description
+ur_gazebo:
+  ubuntu:
+    - ros-humble-ur-gazebo
+ur_kinematics:
+  ubuntu:
+    - ros-humble-ur-kinematics
+vectornav:
+  ubuntu:
+    - ros-humble-vectornav
