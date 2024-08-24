@@ -143,6 +143,9 @@ robotnik_msgs:
 robotnik_navigation_msgs:
   ubuntu:
     - ros-iron-robotnik-navigation-msgs
+robotnik_safety_msgs:
+  ubuntu:
+    - ros-iron-robotnik-safety-msgs
 robotnik_sensors:
   ubuntu:
     - ros-iron-robotnik-sensors
