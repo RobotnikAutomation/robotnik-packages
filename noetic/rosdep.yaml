@@ -38,6 +38,9 @@ elevator_gazebo:
 elevator_node:
   ubuntu:
     - ros-noetic-elevator-node
+ewellix_msgs:
+  ubuntu:
+    - ros-noetic-ewellix-msgs
 marker_mapping:
   ubuntu:
     - ros-noetic-marker-mapping

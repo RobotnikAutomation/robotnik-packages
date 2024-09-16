@@ -38,6 +38,9 @@ elevator_gazebo:
 elevator_node:
   ubuntu:
     - ros-melodic-elevator-node
+ewellix_msgs:
+  ubuntu:
+    - ros-melodic-ewellix-msgs
 marker_mapping:
   ubuntu:
     - ros-melodic-marker-mapping
