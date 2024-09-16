@@ -158,6 +158,9 @@ robotnik_msgs:
 robotnik_navigation_msgs:
   ubuntu:
     - ros-noetic-robotnik-navigation-msgs
+robotnik_pad:
+  ubuntu:
+    - ros-noetic-robotnik-pad
 robotnik_pad_msgs:
   ubuntu:
     - ros-noetic-robotnik-pad-msgs
