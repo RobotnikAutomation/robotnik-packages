@@ -113,6 +113,9 @@ robot_local_control_msgs:
 robot_localization_utils:
   ubuntu:
     - ros-noetic-robot-localization-utils
+robot_simple_command_manager:
+  ubuntu:
+    - ros-noetic-robot-simple-command-manager
 robot_simple_command_manager_msgs:
   ubuntu:
     - ros-noetic-robot-simple-command-manager-msgs
