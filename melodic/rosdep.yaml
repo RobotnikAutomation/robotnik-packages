@@ -60,8 +60,9 @@ myahrs_driver:
   ubuntu:
     - ros-melodic-myahrs-driver
 python3-piexif:
-  ubuntu:
-    - python3-piexif
+  '*':
+    pip:
+      packages: [piexif]
 poi_manager:
   ubuntu:
     - ros-melodic-poi-manager
