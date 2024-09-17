@@ -44,6 +44,9 @@ elevator_node:
 ewellix_msgs:
   ubuntu:
     - ros-noetic-ewellix-msgs
+inspection_msgs:
+  ubuntu:
+    - ros-noetic-inspection-msgs
 marker_mapping:
   ubuntu:
     - ros-noetic-marker-mapping

@@ -44,6 +44,9 @@ elevator_node:
 ewellix_msgs:
   ubuntu:
     - ros-melodic-ewellix-msgs
+inspection_msgs:
+  ubuntu:
+    - ros-melodic-inspection-msgs
 marker_mapping:
   ubuntu:
     - ros-melodic-marker-mapping
