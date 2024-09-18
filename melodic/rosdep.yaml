@@ -59,6 +59,12 @@ multimap_server_msgs:
 myahrs_driver:
   ubuntu:
     - ros-melodic-myahrs-driver
+object_detection:
+  ubuntu:
+    - ros-melodic-object-detection
+object_detection_msgs:
+  ubuntu:
+    - ros-melodic-object-detection-msgs
 python3-piexif:
   '*':
     pip:

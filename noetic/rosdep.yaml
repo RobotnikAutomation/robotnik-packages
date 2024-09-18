@@ -59,6 +59,12 @@ multimap_server_msgs:
 myahrs_driver:
   ubuntu:
     - ros-noetic-myahrs-driver
+object_detection:
+  ubuntu:
+    - ros-noetic-object-detection
+object_detection_msgs:
+  ubuntu:
+    - ros-noetic-object-detection-msgs
 python3-piexif:
   ubuntu:
     - python3-piexif
