@@ -67,7 +67,7 @@ object_detection_msgs:
     - ros-melodic-object-detection-msgs
 python3-alsaaudio:
   ubuntu:
-    - python3-alsaaudio
+    - python-alsaaudio
 python3-piexif:
   '*':
     pip:
