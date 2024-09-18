@@ -65,6 +65,9 @@ object_detection:
 object_detection_msgs:
   ubuntu:
     - ros-noetic-object-detection-msgs
+python3-alsaaudio:
+  ubuntu:
+    - python3-alsaaudio
 python3-piexif:
   ubuntu:
     - python3-piexif
