@@ -143,6 +143,12 @@ robot_simple_command_manager_msgs:
 roboticsgroup_gazebo_plugins:
   ubuntu:
     - ros-noetic-roboticsgroup-gazebo-plugins
+robotnik_alarms:
+  ubuntu:
+    - ros-noetic-robotnik-alarms
+robotnik_alarms_msgs:
+  ubuntu:
+    - ros-noetic-robotnik-alarms-msgs
 robotnik_base_hw:
   ubuntu:
     - ros-noetic-robotnik-base-hw
