@@ -1,0 +1,217 @@
+---
+ar_track_alvar:
+  ubuntu:
+    - ros-jazzy-ar-track-alvar
+libmysql++3v5:
+  ubuntu:
+    - libmysql++3v5
+libmysql++-dev:
+  ubuntu:
+    - libmysql++-dev
+eband_local_planner:
+  ubuntu:
+    - ros-jazzy-eband-local-planner
+egh_gripper_controller:
+  ubuntu:
+    - ros-jazzy-egh-gripper-controller
+egh_gripper_description:
+  ubuntu:
+    - ros-jazzy-egh-gripper-description
+elevator_control:
+  ubuntu:
+    - ros-jazzy-elevator-control
+elevator_controller_modbus:
+  ubuntu:
+    - ros-jazzy-elevator-controller-modbus
+elevator_description:
+  ubuntu:
+    - ros-jazzy-elevator-description
+elevator_gazebo:
+  ubuntu:
+    - ros-jazzy-elevator-gazebo
+elevator_node:
+  ubuntu:
+    - ros-jazzy-elevator-node
+multimap_server:
+  ubuntu:
+    - ros-jazzy-multimap-server
+multimap_server_msgs:
+  ubuntu:
+    - ros-jazzy-multimap-server-msgs
+myahrs_driver:
+  ubuntu:
+    - ros-jazzy-myahrs-driver
+poi_manager:
+  ubuntu:
+    - ros-jazzy-poi-manager
+poi_manager_msgs:
+  ubuntu:
+    - ros-jazzy-poi-manager-msgs
+procedures_msgs:
+  ubuntu:
+    - ros-jazzy-procedures-msgs
+rbkairos_10_moveit_config:
+  ubuntu:
+    - ros-jazzy-rbkairos-10-moveit-config
+rbkairos_5_plus_config:
+  ubuntu:
+    - ros-jazzy-rbkairos-5-plus-config
+rbkairos_common:
+  ubuntu:
+    - ros-jazzy-rbkairos-common
+rbkairos_control:
+  ubuntu:
+    - ros-jazzy-rbkairos-control
+rbkairos_description:
+  ubuntu:
+    - ros-jazzy-rbkairos-description
+rbkairos_franka_moveit_config:
+  ubuntu:
+    - ros-jazzy-rbkairos-franka-moveit-config
+rbkairos_gazebo:
+  ubuntu:
+    - ros-jazzy-rbkairos-gazebo
+rbkairos_iiwa_plus_config:
+  ubuntu:
+    - ros-jazzy-rbkairos-iiwa-plus-config
+rbkairos_plus_ur5_vgc10_moveit_config:
+  ubuntu:
+    - ros-jazzy-rbkairos-plus-ur5-vgc10-moveit-config
+rbkairos_sim:
+  ubuntu:
+    - ros-jazzy-rbkairos-sim
+rbkairos_sim_bringup:
+  ubuntu:
+    - ros-jazzy-rbkairos-sim-bringup
+rbkairos_ur10_vgc10_moveit_config:
+  ubuntu:
+    - ros-jazzy-rbkairos-ur10-vgc10-moveit-config
+rbkairos_ur5_egh_moveit_config:
+  ubuntu:
+    - ros-jazzy-rbkairos-ur5-egh-moveit-config
+rbkairos_ur5_egh_plus_moveit:
+  ubuntu:
+    - ros-jazzy-rbkairos-ur5-egh-plus-moveit
+rbkairos_ur5_wsg50_moveit_config:
+  ubuntu:
+    - ros-jazzy-rbkairos-ur5-wsg50-moveit-config
+rcomponent:
+  ubuntu:
+    - ros-jazzy-rcomponent
+robot_local_control_msgs:
+  ubuntu:
+    - ros-jazzy-robot-local-control-msgs
+robot_localization_utils:
+  ubuntu:
+    - ros-jazzy-robot-localization-utils
+robot_simple_command_manager_msgs:
+  ubuntu:
+    - ros-jazzy-robot-simple-command-manager-msgs
+roboticsgroup_gazebo_plugins:
+  ubuntu:
+    - ros-jazzy-roboticsgroup-gazebo-plugins
+robotnik_base_hw_sim:
+  ubuntu:
+    - ros-jazzy-robotnik-base-hw-sim
+robotnik_elevator_component:
+  ubuntu:
+    - ros-jazzy-robotnik-elevator-component
+robotnik_elevator_interface:
+  ubuntu:
+    - ros-jazzy-robotnik-elevator-interface
+robotnik_elevator_interface_msgs:
+  ubuntu:
+    - ros-jazzy-robotnik-elevator-interface-msgs
+robotnik_force_based_move:
+  ubuntu:
+    - ros-jazzy-robotnik-force-based-move
+robotnik_gazebo_elevator:
+  ubuntu:
+    - ros-jazzy-robotnik-gazebo-elevator
+robotnik_gazebo_ground_truth_odom:
+  ubuntu:
+    - ros-jazzy-robotnik-gazebo-ground-truth-odom
+robotnik_gazebo_plugins:
+  ubuntu:
+    - ros-jazzy-robotnik-gazebo-plugins
+robotnik_gazebo_set_visual:
+  ubuntu:
+    - ros-jazzy-robotnik-gazebo-set-visual
+robotnik_msgs:
+  ubuntu:
+    - ros-jazzy-robotnik-msgs
+robotnik_navigation_msgs:
+  ubuntu:
+    - ros-jazzy-robotnik-navigation-msgs
+robotnik_safety_msgs:
+  ubuntu:
+    - ros-jazzy-robotnik-safety-msgs
+robotnik_sensors:
+  ubuntu:
+    - ros-jazzy-robotnik-sensors
+robotnik_signal_msgs:
+  ubuntu:
+    - ros-jazzy-robotnik-signal-msgs
+summit_xl_common:
+  ubuntu:
+    - ros-jazzy-summit-xl-common
+summit_xl_control:
+  ubuntu:
+    - ros-jazzy-summit-xl-control
+summit_xl_description:
+  ubuntu:
+    - ros-jazzy-summit-xl-description
+summit_xl_j2n6s200_moveit_config:
+  ubuntu:
+    - ros-jazzy-summit-xl-j2n6s200-moveit-config
+summit_xl_j2s6s200_moveit_config:
+  ubuntu:
+    - ros-jazzy-summit-xl-j2s6s200-moveit-config
+summit_xl_localization:
+  ubuntu:
+    - ros-jazzy-summit-xl-localization
+summit_xl_navigation:
+  ubuntu:
+    - ros-jazzy-summit-xl-navigation
+summit_xl_pad:
+  ubuntu:
+    - ros-jazzy-summit-xl-pad
+summit_xl_vx300s_moveit_config:
+  ubuntu:
+    - ros-jazzy-summit-xl-vx300s-moveit-config
+universal_robots:
+  ubuntu:
+    - ros-jazzy-universal-robots
+ur10_moveit_config:
+  ubuntu:
+    - ros-jazzy-ur10-moveit-config
+ur10e_moveit_config:
+  ubuntu:
+    - ros-jazzy-ur10e-moveit-config
+ur16e_moveit_config:
+  ubuntu:
+    - ros-jazzy-ur16e-moveit-config
+ur3_moveit_config:
+  ubuntu:
+    - ros-jazzy-ur3-moveit-config
+ur3e_moveit_config:
+  ubuntu:
+    - ros-jazzy-ur3e-moveit-config
+ur5_moveit_config:
+  ubuntu:
+    - ros-jazzy-ur5-moveit-config
+ur5e_moveit_config:
+  ubuntu:
+    - ros-jazzy-ur5e-moveit-config
+ur_description:
+  ubuntu:
+    - ros-jazzy-ur-description
+ur_gazebo:
+  ubuntu:
+    - ros-jazzy-ur-gazebo
+ur_kinematics:
+  ubuntu:
+    - ros-jazzy-ur-kinematics
+vectornav:
+  ubuntu:
+    - ros-jazzy-vectornav
