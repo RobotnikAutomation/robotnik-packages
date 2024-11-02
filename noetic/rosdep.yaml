@@ -5,18 +5,51 @@ ar_track_alvar:
 ar_track_alvar_msgs:
   ubuntu:
     - ros-noetic-ar-track-alvar-msgs
+aruco:
+  ubuntu:
+    - ros-noetic-aruco
+aruco_msgs:
+  ubuntu:
+    - ros-noetic-aruco-msgs
+aruco_ros:
+  ubuntu:
+    - ros-noetic-aruco-ros
+battery_estimation:
+  ubuntu:
+    - ros-noetic-battery-estimation
+battery_information:
+  ubuntu:
+    - ros-noetic-battery-information
+brooks_arm_controller:
+  ubuntu:
+    - ros-noetic-brooks-arm-controller
+brooks_precise_description:
+  ubuntu:
+    - ros-noetic-brooks-precise-description
+brooks_precise_driver:
+  ubuntu:
+    - ros-noetic-brooks-precise-driver
+brooks_precise_moveit_config:
+  ubuntu:
+    - ros-noetic-brooks-precise-moveit-config
+brooks_precise_msgs:
+  ubuntu:
+    - ros-noetic-brooks-precise-msgs
+brooks_restart_system:
+  ubuntu:
+    - ros-noetic-brooks-restart-system
 camera_info_manager_py:
   ubuntu:
     - ros-noetic-camera-info-manager-py
 cartographer_ros_msgs:
   ubuntu:
     - ros-noetic-cartographer-ros-msgs
-libmysql++3v5:
+charge_manager:
   ubuntu:
-    - libmysql++3v5
-libmysql++-dev:
+    - ros-noetic-charge-manager
+cognex_adv102:
   ubuntu:
-    - libmysql++-dev
+    - ros-noetic-cognex-adv102
 eband_local_planner:
   ubuntu:
     - ros-noetic-eband-local-planner
@@ -41,12 +74,99 @@ elevator_gazebo:
 elevator_node:
   ubuntu:
     - ros-noetic-elevator-node
+environment_manager:
+  ubuntu:
+    - ros-noetic-environment-manager
 ewellix_msgs:
   ubuntu:
     - ros-noetic-ewellix-msgs
+gazebo_dev:
+  ubuntu:
+    - ros-noetic-gazebo-dev
+gazebo_msgs:
+  ubuntu:
+    - ros-noetic-gazebo-msgs
+gazebo_plugins:
+  ubuntu:
+    - ros-noetic-gazebo-plugins
+gazebo_ros:
+  ubuntu:
+    - ros-noetic-gazebo-ros
+gazebo_ros_control:
+  ubuntu:
+    - ros-noetic-gazebo-ros-control
+gazebo_ros_pkgs:
+  ubuntu:
+    - ros-noetic-gazebo-ros-pkgs
+image_filter:
+  ubuntu:
+    - ros-noetic-image-filter
+influx_ros:
+  ubuntu:
+    - ros-noetic-influx-ros
+influx_ros_py:
+  ubuntu:
+    - ros-noetic-influx-ros-py
 inspection_msgs:
   ubuntu:
     - ros-noetic-inspection-msgs
+interactive_marker_proxy:
+  ubuntu:
+    - ros-noetic-interactive-marker-proxy
+kevin_arm:
+  ubuntu:
+    - ros-noetic-kevin-arm
+kevin_behaviortree:
+  ubuntu:
+    - ros-noetic-kevin-behaviortree
+kevin_bringup:
+  ubuntu:
+    - ros-noetic-kevin-bringup
+kevin_command_manager:
+  ubuntu:
+    - ros-noetic-kevin-command-manager
+kevin_database:
+  ubuntu:
+    - ros-noetic-kevin-database
+kevin_internal_msgs:
+  ubuntu:
+    - ros-noetic-kevin-internal-msgs
+kevin_management_system:
+  ubuntu:
+    - ros-noetic-kevin-management-system
+kevin_robot_control:
+  ubuntu:
+    - ros-noetic-kevin-robot-control
+kevin_robot_description:
+  ubuntu:
+    - ros-noetic-kevin-robot-description
+kevin_robot_gazebo:
+  ubuntu:
+    - ros-noetic-kevin-robot-gazebo
+kevin_sim_bringup:
+  ubuntu:
+    - ros-noetic-kevin-sim-bringup
+kevin_teaching_app_backend:
+  ubuntu:
+    - ros-noetic-kevin-teaching-app-backend
+kevin_teaching_app_backend_mock:
+  ubuntu:
+    - ros-noetic-kevin-teaching-app-backend-mock
+kevin_teaching_app_msgs:
+  ubuntu:
+    - ros-noetic-kevin-teaching-app-msgs
+libmysql++-dev:
+  ubuntu:
+    - libmysql++-dev
+libmysql++3v5:
+  ubuntu:
+    - libmysql++3v5
+manipulation_package:
+  ubuntu:
+    - ros-noetic-manipulation-package
+manipulation_package_msgs:
+  ubuntu:
+    - ros-noetic-manipulation-package-msgs
 marker_mapping:
   ubuntu:
     - ros-noetic-marker-mapping
@@ -59,27 +179,54 @@ multimap_server_msgs:
 myahrs_driver:
   ubuntu:
     - ros-noetic-myahrs-driver
+network_monitor:
+  ubuntu:
+    - ros-noetic-network-monitor
+node_manager:
+  ubuntu:
+    - ros-noetic-node-manager
 object_detection:
   ubuntu:
     - ros-noetic-object-detection
 object_detection_msgs:
   ubuntu:
     - ros-noetic-object-detection-msgs
-python3-alsaaudio:
+ping_time_monitor:
   ubuntu:
-    - python3-alsaaudio
-python3-piexif:
-  ubuntu:
-    - python3-piexif
+    - ros-noetic-ping-time-monitor
 poi_manager:
   ubuntu:
     - ros-noetic-poi-manager
 poi_manager_msgs:
   ubuntu:
     - ros-noetic-poi-manager-msgs
+pointcloud_filters:
+  ubuntu:
+    - ros-noetic-pointcloud-filters
+procedures:
+  ubuntu:
+    - ros-noetic-procedures
 procedures_msgs:
   ubuntu:
     - ros-noetic-procedures-msgs
+procedures_test_msgs:
+  ubuntu:
+    - ros-noetic-procedures-test-msgs
+python3-alsaaudio:
+  ubuntu:
+    - python3-alsaaudio
+python3-piexif:
+  ubuntu:
+    - python3-piexif
+rb_theron_bringup:
+  ubuntu:
+    - ros-noetic-rb-theron-bringup
+rb_theron_controller:
+  ubuntu:
+    - ros-noetic-rb-theron-controller
+rb_theron_robot:
+  ubuntu:
+    - ros-noetic-rb-theron-robot
 rbkairos_10_moveit_config:
   ubuntu:
     - ros-noetic-rbkairos-10-moveit-config
@@ -125,24 +272,63 @@ rbkairos_ur5_egh_plus_moveit:
 rbkairos_ur5_wsg50_moveit_config:
   ubuntu:
     - ros-noetic-rbkairos-ur5-wsg50-moveit-config
+rbsherkan_control:
+  ubuntu:
+    - ros-noetic-rbsherkan-control
+rbsherkan_description:
+  ubuntu:
+    - ros-noetic-rbsherkan-description
+rbsherkan_gazebo:
+  ubuntu:
+    - ros-noetic-rbsherkan-gazebo
 rcomponent:
   ubuntu:
     - ros-noetic-rcomponent
+robot_control:
+  ubuntu:
+    - ros-noetic-robot-control
+robot_local_control:
+  ubuntu:
+    - ros-noetic-robot-local-control
+robot_local_control_bringup:
+  ubuntu:
+    - ros-noetic-robot-local-control-bringup
+robot_local_control_components:
+  ubuntu:
+    - ros-noetic-robot-local-control-components
+robot_local_control_dummy_components:
+  ubuntu:
+    - ros-noetic-robot-local-control-dummy-components
 robot_local_control_msgs:
   ubuntu:
     - ros-noetic-robot-local-control-msgs
+robot_local_control_procedures:
+  ubuntu:
+    - ros-noetic-robot-local-control-procedures
+robot_local_control_test:
+  ubuntu:
+    - ros-noetic-robot-local-control-test
 robot_localization_utils:
   ubuntu:
     - ros-noetic-robot-localization-utils
+robot_sim:
+  ubuntu:
+    - ros-noetic-robot-sim
 robot_simple_command_manager:
   ubuntu:
     - ros-noetic-robot-simple-command-manager
 robot_simple_command_manager_msgs:
   ubuntu:
     - ros-noetic-robot-simple-command-manager-msgs
+robot_simple_command_sequencer:
+  ubuntu:
+    - ros-noetic-robot-simple-command-sequencer
 roboticsgroup_gazebo_plugins:
   ubuntu:
     - ros-noetic-roboticsgroup-gazebo-plugins
+robotnik_advanced_system_monitor:
+  ubuntu:
+    - ros-noetic-robotnik-advanced-system-monitor
 robotnik_alarms:
   ubuntu:
     - ros-noetic-robotnik-alarms
@@ -158,6 +344,12 @@ robotnik_base_hw_lib:
 robotnik_base_hw_sim:
   ubuntu:
     - ros-noetic-robotnik-base-hw-sim
+robotnik_behaviortree:
+  ubuntu:
+    - ros-noetic-robotnik-behaviortree
+robotnik_docker:
+  ubuntu:
+    - ros-noetic-robotnik-docker
 robotnik_elevator_component:
   ubuntu:
     - ros-noetic-robotnik-elevator-component
@@ -176,12 +368,36 @@ robotnik_gazebo_elevator:
 robotnik_gazebo_ground_truth_odom:
   ubuntu:
     - ros-noetic-robotnik-gazebo-ground-truth-odom
+robotnik_gazebo_models:
+  ubuntu:
+    - ros-noetic-robotnik-gazebo-models
 robotnik_gazebo_plugins:
   ubuntu:
     - ros-noetic-robotnik-gazebo-plugins
 robotnik_gazebo_set_visual:
   ubuntu:
     - ros-noetic-robotnik-gazebo-set-visual
+robotnik_leds_example:
+  ubuntu:
+    - ros-noetic-robotnik-leds-example
+robotnik_leds_msgs:
+  ubuntu:
+    - ros-noetic-robotnik-leds-msgs
+robotnik_locator:
+  ubuntu:
+    - ros-noetic-robotnik-locator
+robotnik_modbus_io:
+  ubuntu:
+    - ros-noetic-robotnik-modbus-io
+robotnik_move:
+  ubuntu:
+    - ros-noetic-robotnik-move
+robotnik_move_base:
+  ubuntu:
+    - ros-noetic-robotnik-move-base
+robotnik_move_base_flex:
+  ubuntu:
+    - ros-noetic-robotnik-move-base-flex
 robotnik_msgs:
   ubuntu:
     - ros-noetic-robotnik-msgs
@@ -194,15 +410,132 @@ robotnik_pad:
 robotnik_pad_msgs:
   ubuntu:
     - ros-noetic-robotnik-pad-msgs
+robotnik_pad_plugins:
+  ubuntu:
+    - ros-noetic-robotnik-pad-plugins
+robotnik_pose_filter:
+  ubuntu:
+    - ros-noetic-robotnik-pose-filter
+robotnik_safety_controller:
+  ubuntu:
+    - ros-noetic-robotnik-safety-controller
 robotnik_sensors:
   ubuntu:
     - ros-noetic-robotnik-sensors
+robotnik_signal_gazebo_manager:
+  ubuntu:
+    - ros-noetic-robotnik-signal-gazebo-manager
+robotnik_signal_interface:
+  ubuntu:
+    - ros-noetic-robotnik-signal-interface
+robotnik_signal_leds_manager:
+  ubuntu:
+    - ros-noetic-robotnik-signal-leds-manager
 robotnik_signal_msgs:
   ubuntu:
     - ros-noetic-robotnik-signal-msgs
+robotnik_sql_client:
+  ubuntu:
+    - ros-noetic-robotnik-sql-client
+robotnik_velocity_limiter:
+  ubuntu:
+    - ros-noetic-robotnik-velocity-limiter
+robotnik_waypoints:
+  ubuntu:
+    - ros-noetic-robotnik-waypoints
+robotnik_waypoints_bringup:
+  ubuntu:
+    - ros-noetic-robotnik-waypoints-bringup
+robotnik_waypoints_exe:
+  ubuntu:
+    - ros-noetic-robotnik-waypoints-exe
+robotnik_waypoints_manager:
+  ubuntu:
+    - ros-noetic-robotnik-waypoints-manager
+robotnik_waypoints_msgs:
+  ubuntu:
+    - ros-noetic-robotnik-waypoints-msgs
+rosbag_manager:
+  ubuntu:
+    - ros-noetic-rosbag-manager
 rosbag_manager_msgs:
   ubuntu:
     - ros-noetic-rosbag-manager-msgs
+rosmon:
+  ubuntu:
+    - ros-noetic-rosmon
+rosmon_core:
+  ubuntu:
+    - ros-noetic-rosmon-core
+rosmon_msgs:
+  ubuntu:
+    - ros-noetic-rosmon-msgs
+rosserial:
+  ubuntu:
+    - ros-noetic-rosserial
+rosserial_arduino:
+  ubuntu:
+    - ros-noetic-rosserial-arduino
+rosserial_chibios:
+  ubuntu:
+    - ros-noetic-rosserial-chibios
+rosserial_client:
+  ubuntu:
+    - ros-noetic-rosserial-client
+rosserial_embeddedlinux:
+  ubuntu:
+    - ros-noetic-rosserial-embeddedlinux
+rosserial_mbed:
+  ubuntu:
+    - ros-noetic-rosserial-mbed
+rosserial_msgs:
+  ubuntu:
+    - ros-noetic-rosserial-msgs
+rosserial_python:
+  ubuntu:
+    - ros-noetic-rosserial-python
+rosserial_server:
+  ubuntu:
+    - ros-noetic-rosserial-server
+rosserial_test:
+  ubuntu:
+    - ros-noetic-rosserial-test
+rosserial_tivac:
+  ubuntu:
+    - ros-noetic-rosserial-tivac
+rosserial_vex_cortex:
+  ubuntu:
+    - ros-noetic-rosserial-vex-cortex
+rosserial_vex_v5:
+  ubuntu:
+    - ros-noetic-rosserial-vex-v5
+rosserial_windows:
+  ubuntu:
+    - ros-noetic-rosserial-windows
+rosserial_xbee:
+  ubuntu:
+    - ros-noetic-rosserial-xbee
+rostful:
+  ubuntu:
+    - ros-noetic-rostful
+rostful_tests:
+  ubuntu:
+    - ros-noetic-rostful-tests
+rqt_rosmon:
+  ubuntu:
+    - ros-noetic-rqt-rosmon
+rslidar_sdk:
+  ubuntu:
+    - ros-noetic-rslidar-sdk
+safety_module:
+  ubuntu:
+    - ros-noetic-safety-module
+service_shifter:
+  ubuntu:
+    - ros-noetic-service-shifter
+simple_sound_player:
+  ubuntu:
+    - ros-noetic-simple-sound-player
 summit_xl_common:
   ubuntu:
     - ros-noetic-summit-xl-common
@@ -230,6 +563,15 @@ summit_xl_pad:
 summit_xl_vx300s_moveit_config:
   ubuntu:
     - ros-noetic-summit-xl-vx300s-moveit-config
+system_monitor:
+  ubuntu:
+    - ros-noetic-system-monitor
+template_custom_commands_package:
+  ubuntu:
+    - ros-noetic-template-custom-commands-package
+two_position_actuator:
+  ubuntu:
+    - ros-noetic-two-position-actuator
 universal_robots:
   ubuntu:
     - ros-noetic-universal-robots
@@ -266,3 +608,12 @@ ur_kinematics:
 vectornav:
   ubuntu:
     - ros-noetic-vectornav
+web_video_server:
+  ubuntu:
+    - ros-noetic-web-video-server
+wiferion_bms:
+  ubuntu:
+    - ros-noetic-wiferion-bms
+yocs_velocity_smoother:
+  ubuntu:
+    - ros-noetic-yocs-velocity-smoother
